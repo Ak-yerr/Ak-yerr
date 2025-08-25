@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ak-yerr
 - 👀 I’m interested in computers, engineering, electronics, economics, and film!
-- 🌱 I’m currently learning C programming
+- 🌱 I’m currently a student at the University of Illinois Urbana-Champaign
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I've written, directed, and screened my own short film!
