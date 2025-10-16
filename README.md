@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ak-yerr
-- 👀 I’m interested in computers, engineering, electronics, economics, and film!
+- 👀 I’m interested in engineering, electronics, philosophy, and film!
 - 🌱 I’m currently a student at the University of Illinois Urbana-Champaign
 - 😄 Pronouns: he/him
